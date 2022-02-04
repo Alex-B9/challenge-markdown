@@ -1,4 +1,4 @@
-# Baes Alex
+<h1 align=center>Baes Alex</p> 
 
 *Ne comptez pas les jours, faites que chaque jour compte*
 ---
