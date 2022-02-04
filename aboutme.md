@@ -3,6 +3,7 @@
 *Ne comptez pas les jours, faites que chaque jour compte*
 ---
 ![ ](./Alex.jpg)
+
 ---
 
 &nbsp;
@@ -20,6 +21,7 @@
 &nbsp;
 
 ---
+
 ### Passe-temps 
 - Jeux-vidéos
     - Histoire
