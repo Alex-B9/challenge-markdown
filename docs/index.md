@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+<h1 align=center>Baes Alex</p>
 
-You can use the [editor on GitHub](https://github.com/Alex-B9/challenge-markdown/edit/development/docs/index.md) to maintain and preview the content for your website in Markdown files.
+*"Ne comptez pas les jours, faites que chaque jour compte" - Muhammed Ali (1942-2016)*
+---
+<img src="./Alex.jpg" width="300" height="300" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+&nbsp;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Passionné d'informatique, de jeux-vidéo de musique et de film
 
-```markdown
-Syntax highlighted code block
+| Description |  |
+| -----------  | ----------- |
+| Anniversaire | 20/06 |
+| Genre :      | Homme |
+| Couleur préférée | Gris |
+| Nourriture préférée | Pizza |
+| Ananas sur la pizza | <ul><li> [ ] Oui </li> <li> [x] Non </li></lu>
 
-# Header 1
-## Header 2
-### Header 3
+&nbsp;
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+### Passe-temps
+- Jeux-vidéos
+    - Histoire
+    - FPS
+- Films
+    - Aventure
+    - Science-fiction
+    - Action
 
-**Bold** and _Italic_ and `Code` text
+&nbsp;
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Vous pourrez toujours compter sur moi pour me donner à 100% dans vos projets.
 
-### Jekyll Themes
+---
+&nbsp;
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alex-B9/challenge-markdown/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### "Petite" anectode "marrante" sur moi  :
+Il n'y a pas si longtemps, à l'époque où l'on respirait sans masque, j'ai fait un séjour en Turquie. A la fin de ces vacances,
+j'ai pris un car pour m'emmener à l'aéroport le plus proche. Malheureusement je me suis endormi dans le car...
+    Résultat : je me suis retrouvé dans les montagnes.
 
-### Support or Contact
+##### En résumé, les Turques des montagnes n'ont pas l'habitude de voir des Européens, pensez à dormir avant de prendre le car.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+[<< Précédent](https://github.com/sebwylleman/challenge-markdown) || **Alex Baes** || [Suivant >>](https://github.com/alikhalife/markdown-challenge)
