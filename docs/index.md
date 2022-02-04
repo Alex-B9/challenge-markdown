@@ -48,4 +48,4 @@ j'ai pris un car pour m'emmener à l'aéroport le plus proche. Malheureusement j
 ##### En résumé, les Turques des montagnes n'ont pas l'habitude de voir des Européens, pensez à dormir avant de prendre le car.
 
 
-[<< Précédent](https://github.com/sebwylleman/challenge-markdown) || **Alex Baes** || [Suivant >>](https://github.com/alikhalife/markdown-challenge)
+[<< Précédent](https://github.com/sebwylleman/challenge-markdown) || **Alex Baes** || [Suivant >>](https://github.com/alikhalife/markdown-challenge) 
