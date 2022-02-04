@@ -28,14 +28,14 @@
     - FPS
 - Films 
     - Aventure 
-    - Sciences-fiction
+    - Science-fiction
     - Action 
 
 &nbsp;
 
 --- 
 
-#### Vous pourrez toujours comptez sur moi pour me donnez à 100% dans vos projets.
+#### Vous pourrez toujours compter sur moi pour me donner à 100% dans vos projets.
 
 ---
 &nbsp;
