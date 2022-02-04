@@ -45,5 +45,5 @@ Il n'y as pas si longtemps, à l'époque où l'on respirait sans masques, j'éta
 ##### En résumé, les Turques des montagnes n'ont pas l'habitude de voir des Européens, pensez à dormir avant de prendre le car.
 
 
-[<< Précédent](https://github.com/sebwylleman/challenge-markdown) || Alex Baes  || [Suivant >>](https://github.com/alikhalife/markdown-challenge)
-=======
+[<< Précédent](https://github.com/sebwylleman/challenge-markdown) &nbsp; &nbsp; || &nbsp; Alex Baes  &nbsp; || &nbsp; &nbsp; [Suivant >>](https://github.com/alikhalife/markdown-challenge)
+
