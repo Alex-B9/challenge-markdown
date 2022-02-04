@@ -2,4 +2,4 @@
  
 ## Fiche présentation 
 
-![Fiche de présentation](./markdown.md)
+[Fiche de présentation](./markdown.md)
