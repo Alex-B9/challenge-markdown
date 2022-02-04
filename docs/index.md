@@ -1,8 +1,8 @@
-<h1 align=center>Baes Alex</p>
+# **Alex Baes**
 
 *"Ne comptez pas les jours, faites que chaque jour compte" - Muhammed Ali (1942-2016)*
 ---
-<img src="./Alex.jpg" width="300" height="300" />
+![ ](/Alex.jpg)
 
 ---
 
