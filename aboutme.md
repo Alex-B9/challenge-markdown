@@ -2,7 +2,7 @@
 
 *"Ne comptez pas les jours, faites que chaque jour compte" - Muhammed Ali (1942-2016)*
 ---
-<img src="./Alex.jpg" width="300" height="300" />
+<img align="center" src="./Alex.jpg" width="300" height="300" />
 
 ---
 
