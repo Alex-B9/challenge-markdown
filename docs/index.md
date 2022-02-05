@@ -43,6 +43,8 @@
 #### "Petite" anectode "marrante" sur moi  :
 Il n'y a pas si longtemps, à l'époque où l'on respirait sans masque, j'ai fait un séjour en Turquie. A la fin de ces vacances,
 j'ai pris un car pour m'emmener à l'aéroport le plus proche. Malheureusement je me suis endormi dans le car...
+
+&nbsp;
     Résultat : je me suis retrouvé dans les montagnes.
 
 ##### En résumé, pensez à dormir avant de prendre le car.
