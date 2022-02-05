@@ -16,7 +16,7 @@
 | Genre :      | Homme |
 | Couleur préférée | Gris |
 | Nourriture préférée | Pizza |
-| Ananas sur la pizza | - [ ] Oui - [x] Non 
+| Ananas sur la pizza |  [ ] Oui  [x] Non 
 
 &nbsp;
 
