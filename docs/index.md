@@ -8,7 +8,7 @@
 
 &nbsp;
 
-### Passionné d'informatique, de jeux-vidéo de musique et de film
+### Passionné d'informatique, de jeux-vidéo, de musique et de film
 
 | Description |  |
 | -----------  | ----------- |
